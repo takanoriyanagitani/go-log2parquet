@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+*.swp
+cmd/generic-json-logs2parquet/generic-json-logs2parquet
+cmd/generic-json-logs2parquet/generic-json-logs2parquet.wasm
